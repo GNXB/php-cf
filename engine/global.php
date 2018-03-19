@@ -7,7 +7,7 @@ define("LIBRARY", ROOT . "/library");
 define("SERVICE", ROOT . "/service");
 define("VIEW", ROOT . "/view");
 
-// App
+// Controller
 define("DEFAULT_ROUTER", CONTROLLER . "/public.router.php");
 
 // View

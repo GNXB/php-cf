@@ -1,0 +1,4 @@
+Deny from all
+
+ErrorDocument 403 /403
+ErrorDocument 404 /404

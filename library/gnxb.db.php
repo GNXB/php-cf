@@ -1,10 +1,13 @@
 <?php
 /*!
- * GNXB Database Framework
+ * GNXB PHP MySQL Database Manipulation Library
  * http://www.gnxb-columberg.com
- * Version 1.0
+ * Version 0.3.0-alpha
  *
- * Copyright 2017, Apiwith Potisuk
+ * Github: https://github.com/GNXB/gnxb.db.php
+ * Reports bugs and issues
+ *
+ * Copyright 2018, Apiwith Potisuk
  * Released under the MIT license
  */
 
